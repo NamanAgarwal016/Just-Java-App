@@ -1,0 +1,1 @@
+This is a app named "Just Java". Java is a name of coffee type. This app can be used by any coffee shop merchant to take orders via his gmail account.It has fantastic UI features and it is simple to use for a newbie. 
